@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha src/tests/api.test.js --exit",
     "dev": "nodemon dist/app",
-    "start": "ts-node --files dist/app.js",
+    "start": "node dist/app.js",
     "watch-ts": "tsc -w"
   },
   "keywords": [],

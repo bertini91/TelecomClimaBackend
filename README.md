@@ -33,7 +33,9 @@ yarn run dev
 
 Este proyecto de backend fue solicitado como challenge en una entrevista de trabajo a cargo de Jennifer Mallo
 
-El proyecto esta desarrollado con NodeJS y Express con typescript
+El proyecto esta desarrollado con NodeJS y Express con typescript.
+
+Al repositorio de frontend lo podemos visualizar en https://github.com/bertini91/TelecomClimaFrontend
 
 ## Endpoints
 
